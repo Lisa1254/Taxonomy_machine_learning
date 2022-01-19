@@ -13,10 +13,10 @@
 #### 2. Install & Load Packages ----
 
 # Optional: Set working directory to desired location for saving and accessing downloaded files
-setwd("/Users/lisa/Documents/Bioinformatics/6210/A2/Final")
+#setwd("/Users/lisa/Documents/Bioinformatics/6210/A2/Final")
 
 # Set apikey to send excessive requests to NCBI
-apikey <- "3454c77fdcc045aa2a1dd70c3b303abb5409"
+apikey <- "get_your_apikey_from _NCBI"
 
 # Install and load required packages
 #install.packages("rentrez")
